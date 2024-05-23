@@ -10,7 +10,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #00FF00;
 }
 
 body {
@@ -65,7 +65,7 @@ body > * {
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgba(0,255,0,0.5);
+  background-color: rgba(0,255,0);
   padding: 1%;
 }
 
